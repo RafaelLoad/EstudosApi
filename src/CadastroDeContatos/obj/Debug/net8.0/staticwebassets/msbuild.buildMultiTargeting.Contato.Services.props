@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Contato.Services.props" />
-</Project>

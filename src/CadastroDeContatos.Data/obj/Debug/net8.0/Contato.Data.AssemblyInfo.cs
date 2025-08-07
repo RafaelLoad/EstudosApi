@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contato.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18d0577c5b435e80debd8ca875a3fb74e2a43eb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contato.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contato.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
